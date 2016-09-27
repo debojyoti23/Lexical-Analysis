@@ -22,7 +22,7 @@ http://ucrel.lancs.ac.uk/claws2tags.html
 
 ## Preprocessing before train
 
-original file = x
+original file = x  
 1. Run tagger on x.sent. Output x.sent.tag  
 2. Run morph.lex on x.sent.tag. Output x.sent.tag.morph  
 3. Run final_doc_gen.lex on x.sent.tag.morph. Output   
